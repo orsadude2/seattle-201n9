@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- no images included in this demo but you could add your own if you want in an img folder -->
+ <head>
+  <meta charset="UTF-8">
+  <title>Wierd Dream Slack</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+
+ <body>
+
+  <h1>Note: Your possible users are Bart, Mogwai, Lloyd, theDude, Headless, Eleven, and Leia.</h1>
+
+  <form id="chat-form">
+    <fieldset>
+      <legend>Wierd Dream Chat Submission Form</legend>
+
+      <label for="who">Who: </label>
+      <input name="who" type="text" />
+
+      <label for="says">Comment: </label>
+      <input name="says" type="text" size="50" />
+
+      <button id="comment-button" type="submit">Create new comment!</button>
+    </fieldset>
+  </form>
+</br>
+  <button id="clear-chat-list">Clear all comments!</button>
+
+  <ul id="chat-list"></ul>
+
+  <script src="app.js"></script>
+ </body>
+</html>
