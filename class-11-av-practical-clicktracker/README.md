@@ -4,6 +4,9 @@
 - Announcements
   - Project Week is getting closer!
   - Start thinking about project pitches & set project teams
+  - git init demo again with .gitignore
+  - talk about Markdown and merge conflicts
+  - all the busmall prep
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*
 
