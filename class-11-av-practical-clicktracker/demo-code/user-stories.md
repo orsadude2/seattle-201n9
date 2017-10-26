@@ -1,3 +1,7 @@
+# README.md has the links with the markdown editor etc. Go there for help making sense of this.
+
+## remember your user stories are for thinking from the perspective of the user. "as a user I need...as a user I want..."
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -33,4 +37,4 @@ As Kanye West said:
 > the present is our past.
 
 I think you should use an
-`<addr>` element here instead. 
+`<addr>` element here instead.
